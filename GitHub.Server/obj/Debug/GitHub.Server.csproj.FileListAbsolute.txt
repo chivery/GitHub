@@ -1,0 +1,5 @@
+D:\Development\Spike Projects\GitHub\GitHub.Server\bin\Debug\GitHub.Server.dll
+D:\Development\Spike Projects\GitHub\GitHub.Server\bin\Debug\GitHub.Server.pdb
+D:\Development\Spike Projects\GitHub\GitHub.Server\obj\Debug\GitHub.Server.csprojResolveAssemblyReference.cache
+D:\Development\Spike Projects\GitHub\GitHub.Server\obj\Debug\GitHub.Server.dll
+D:\Development\Spike Projects\GitHub\GitHub.Server\obj\Debug\GitHub.Server.pdb

@@ -1,0 +1,8 @@
+D:\Development\Spike Projects\GitHub\GitHub.App\bin\Debug\GitHub.App.exe.config
+D:\Development\Spike Projects\GitHub\GitHub.App\bin\Debug\GitHub.App.exe
+D:\Development\Spike Projects\GitHub\GitHub.App\bin\Debug\GitHub.App.pdb
+D:\Development\Spike Projects\GitHub\GitHub.App\bin\Debug\GitHub.Server.dll
+D:\Development\Spike Projects\GitHub\GitHub.App\bin\Debug\GitHub.Server.pdb
+D:\Development\Spike Projects\GitHub\GitHub.App\obj\Debug\GitHub.App.csprojResolveAssemblyReference.cache
+D:\Development\Spike Projects\GitHub\GitHub.App\obj\Debug\GitHub.App.exe
+D:\Development\Spike Projects\GitHub\GitHub.App\obj\Debug\GitHub.App.pdb
